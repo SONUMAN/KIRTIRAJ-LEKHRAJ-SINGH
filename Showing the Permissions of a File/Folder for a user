@@ -1,0 +1,18 @@
+gam user singh.kirtiraj@gmail.com show drivefileacl 0B8aCWH-xLi2NckxXOEp5REUtNEE
+
+Kirtiraj Singh
+ domain: acme.org
+ emailAddress: singh.kirtiraj@gmail.com
+ photoLink: https://yt3.ggpht.com/-Vg6OYH4Pqgs/AAAAAAAAAAI/AAAAAAAAAAA/hAPsmyAkdtw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg
+ role: owner
+ type: user
+ id: 56b2c540ec435dda72ec4394a1bfc330
+
+George Wilson
+ domain: gmail.com
+ emailAddress: gwilson@gmail.com
+ photoLink: https://lh5.googleusercontent.com/-woxYfVbgI4w/AAAAAAAAAaI/AAAAAAAAb
+SI/Y0RRW2LWX5U/s64/photo.jpg
+ role: writer
+ type: user
+ id: 00772439636938147216
